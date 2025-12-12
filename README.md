@@ -1,10 +1,3 @@
-Hiểu rồi, bạn muốn một file hoàn chỉnh bao gồm cả **lời dẫn giải thích** (để người đọc hiểu context) và **khung code** (để copy chạy lệnh) nằm tách biệt nhau rõ ràng.
-
-Dưới đây là nội dung **nguyên bản (Raw Markdown)**. Bạn hãy bấm nút **Copy** ở góc phải của khung bên dưới, sau đó dán (paste) toàn bộ vào file `README.md` của bạn.
-
-Khi hiển thị trên GitHub, nó sẽ tự động chia thành văn bản và khung code riêng biệt rất đẹp.
-
-````markdown
 # Distributed Systems Monitor (Lab 4)
 
 This repository contains the source code for a distributed system monitoring application. The system consists of a central server, an analysis service, a heartbeat monitor, and agents running on worker nodes.
